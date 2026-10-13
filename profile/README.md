@@ -10,11 +10,11 @@ Nuestro proyecto actual es la automatización de **Lácteos Altos de Teusacá**,
 
 ### Proyecto
 
-| | |
-|:--|:--|
-| **Página web** | [mekvra.github.io/proyecto-integrador](https://mekvra.github.io/proyecto-integrador/) |
-| **Repositorio de ingeniería** | [Mekvra/proyecto-integrador](https://github.com/Mekvra/proyecto-integrador) |
-| **Curso** | Automatización de Procesos de Manufactura · 2026-2S · UNAL Sede Bogotá |
+<table>
+  <tr><td><b>Página web</b></td><td><a href="https://mekvra.github.io/proyecto-integrador/">mekvra.github.io/proyecto-integrador</a></td></tr>
+  <tr><td><b>Repositorio de ingeniería</b></td><td><a href="https://github.com/Mekvra/proyecto-integrador">Mekvra/proyecto-integrador</a></td></tr>
+  <tr><td><b>Curso</b></td><td>Automatización de Procesos de Manufactura · 2026-2S · UNAL Sede Bogotá</td></tr>
+</table>
 
 ### Equipo
 
